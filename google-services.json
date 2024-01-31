@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "853477870661",
+    "project_id": "expo-b4bd0",
+    "storage_bucket": "expo-b4bd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853477870661:android:58ebd657cab8564e4fe72c",
+        "android_client_info": {
+          "package_name": "com.bilgekul.GoogleExpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853477870661-eqon4frii8fev1025gcaohmh60hrtd4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilgekul.GoogleExpo",
+            "certificate_hash": "02a0dadaff8b84693e51ec4d31ddff1f508f2572"
+          }
+        },
+        {
+          "client_id": "853477870661-vmmea164vj5bionf8ffkgndrpdaqj87k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilgekul.GoogleExpo",
+            "certificate_hash": "0b4cd003f857d41eb5b68b00693277498950125f"
+          }
+        },
+        {
+          "client_id": "853477870661-a4qbmaqlrv4m5b7cs4hl6safasqd0mp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv9ZfBNNO7pTz11FukmidT2U7Wb09_5kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853477870661-a4qbmaqlrv4m5b7cs4hl6safasqd0mp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
